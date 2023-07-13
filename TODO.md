@@ -6,3 +6,5 @@
 - [x] 4. For each pixel, calculate the mean value or the median of the composite image. This gives us spatial and temporal information
 - [x] 5. Preprocess CDL 2022 data to get the crop type for each pixel. Figure out which crop types to use for training. (Probbably just winter wheat in the beginning)
 - [x] 6. Combine it with the CDL 2022 data to get the crop type for each pixel to create a training dataset.
+- [x] 7. Gather equivalent LandSAT 7 data to remove missing values
+- [x] 
